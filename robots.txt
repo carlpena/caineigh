@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahseineojo.aurobie.com/sitemap.xml
